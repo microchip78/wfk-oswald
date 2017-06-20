@@ -1,0 +1,26 @@
+{
+  "name": "wfk-oswald",
+  "version": "1.0.0",
+  "description": "WebFont Kit for Oswald google fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microchip78/wfk-oswald.git"
+  },
+  "keywords": [
+    "WebFont",
+    "Kit",
+    "Google",
+    "Fonts",
+    "Oswald"
+  ],
+  "author": "microchip78",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microchip78/wfk-oswald/issues"
+  },
+  "homepage": "https://github.com/microchip78/wfk-oswald#readme"
+}

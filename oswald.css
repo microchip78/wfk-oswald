@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'oswald-bold';
+    src: url('fonts/oswald-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'oswald-extra-light';
+    src: url('fonts/oswald-extra-light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'oswald-light';
+    src: url('fonts/oswald-light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'oswald-medium';
+    src: url('fonts/oswald-medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'oswald-regular';
+    src: url('fonts/oswald-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'oswald-semi-bold';
+    src: url('fonts/oswald-semi-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
